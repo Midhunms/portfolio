@@ -122,7 +122,7 @@ Prontolo meets your requests, even those of the last moment. At home or in one o
 
 <a href='https://play.google.com/store/apps/details?id=com.prontolo'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technologies : Flutter, BLoC, Dio, Payment Gateway.
+### Technologies : React NAtive, Redux, Payment Gateway.
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/CW3ZZYGoG36HDu2Q7p9rtMs2K3N2xNdqDMUcsPe1sO4Md3yk5WykX1UBUxqngDhWoT2N=w2560-h1440-rw" width="250" height = "500"  title="Habib Exchange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
