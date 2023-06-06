@@ -1,8 +1,8 @@
-# Ankit Kumar
+# Midhun Mony Sugandhibai
 
-### Hello, I am an android developer, always follow best practices for android application and I am always ready to learn new technologies, methods, and principle as per the project requirements. Keep Learning and Keep Sharing
+### Hello, I am a Senior Android Engineer having 9+ years of experience in developing robust code for high-volume businesses. Handled different phases of multiple agile projects including requirement gathering and effort estimation. Experienced in application development and support that involved modernization projects.
 
-<a href="mailto:ankit.loma@gmail.com"><img src="https://img.shields.io/badge/Email-ankit-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankit-kumar-02a32a14b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Ankit-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ak_sparrow007/" target="_blank"><img src="https://img.shields.io/badge/instagram-AK_Sparrow007-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:midhunmscse@gmail.com"><img src="https://img.shields.io/badge/Email-ankit-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankit-kumar-02a32a14b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Ankit-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ak_sparrow007/" target="_blank"><img src="https://img.shields.io/badge/instagram-AK_Sparrow007-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 # Gojek/GOPAY Android
 Curretnly Working on the project for the android project. start working on some new feature
