@@ -4,21 +4,30 @@
 
 <a href="mailto:midhunmscse@gmail.com"><img src="https://img.shields.io/badge/Midhun-Email-red"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/midhun-ms-46021491/" target="_blank"><img src="https://img.shields.io/badge/Midhun-LinkedIn-blue" ></a>
 
-# Gojek/GOPAY Android
-Curretnly Working on the project for the android project. start working on some new feature
-# Decathlon Application
+# UPS Mobile
 
-Now enjoy and experience the entire offering of Decathlon India’s 70+ sports and over 5,000 products by using the Decathlon mobile application!
-Choose from an array of gear and equipment that's designed to get you play-ready.
+UPS help you easily manage shipments, track packages, find UPS locations, and much more with the UPS Mobile app.
 
-<a href='https://play.google.com/store/apps/details?id=com.evamall.evacustomer&hl=en_IN&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+Track
 
+- Find and follow your deliveries in transit
+- Update your delivery location or change your delivery date
+- Get delivery alerts to know when your package will arrive
 
+Ship
 
-### Technolgies : Android SDK , Kotlin, Xml, Firebase, RxJava, Android Jetpack Libraries.
+- Estimate shipping costs and delivery times
+- Take package dimensions with our in-app measurement tool
+- Create a shipment and get shipping labels
+
+Find the nearest UPS location to pack, send, or collect your shipments
+
+<a href='https://play.google.com/store/apps/details?id=com.ups.mobile.android'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technolgies : Android SDK , Kotlin, Xml, Firebase, Coroutines, Jetpack Components.
 
 <p align="center">
-<img src="https://play-lh.googleusercontent.com/t9Se2dF5tbscBVw736HmePYp6Y--h8mAHERvOi2CLg71T30BkzKQi9RaqqxEazWLP9s=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://play-lh.googleusercontent.com/sb-vmTzcg3QzxLo8JaalqshJnuXOfkvSxzMAMsB4pUeML_FNFFH1CEryQX-SZV_a9EMf=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
