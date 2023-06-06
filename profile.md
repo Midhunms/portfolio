@@ -21,18 +21,15 @@ Ship
 - Create a shipment and get shipping labels
 
 Find the nearest UPS location to pack, send, or collect your shipments
-<div class="row">
-<a href='https://play.google.com/store/apps/details?id=com.ups.mobile.android'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
-</div>
-<div class="row">
-<a href='https://play.google.com/store/apps/details?id=com.ups.mobile.android'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
-</div>
-### Technolgies : Android SDK , Kotlin, Xml, Firebase, Coroutines, Jetpack Components.
 
+<a href='https://play.google.com/store/apps/details?id=com.ups.mobile.android'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technolgies : Android SDK , Kotlin, Xml, Firebase, Coroutines, Jetpack Components.
+<div class="row">
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/sb-vmTzcg3QzxLo8JaalqshJnuXOfkvSxzMAMsB4pUeML_FNFFH1CEryQX-SZV_a9EMf=w2560-h1440-rw" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+</div>
 
 # Notes Application
 
