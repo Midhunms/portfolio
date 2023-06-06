@@ -38,7 +38,7 @@ Find the nearest UPS location to pack, send, or collect your shipments
 
 <a href='https://play.google.com/store/apps/details?id=com.ups.mobile.android'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technologies : Android SDK , Kotlin, Xml, Firebase, Coroutines, Jetpack Components.
+### Technologies : Android SDK , Kotlin, Xml, Firebase, Coroutines, Jetpack Components, AR Core, Rest Api, Hilt, Payment Gateway, TDD.
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/sESpxwdv8E0ikwgAftqLbSDMc6ePzhlkYrRB1bf8HnZt9KbD9rbDq0G7YrhoXbkUkQ=w2560-h1440-rw" width="250" height = "500"  title="UPS Mobile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,7 +50,7 @@ KRUUZ provides a platform for cities, college campuses, apartment buildings, and
 
 <a href='https://play.google.com/store/apps/details?id=com.kruuz.app'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technologies : MVVM, Hilt, Coroutine, Android Jetpack, Room, Android SDK, Kotlin, Xml, TCP Socket, Payment Gateways, GPay
+### Technologies : Android SDK, Kotlin, Xml, MVVM, Hilt, Coroutine, Android Jetpack, Room, TCP Socket, Payment Gateways, GPay, Google Maps, TDD.
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/DL94gV7zKEY0VlK73pKlRB477YhqStb__pXikSFcKKUCzo0kUqNbBsLUSAd2hu_zag=w2560-h1440-rw" width="250" height = "500"  title="Kruuz">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,7 +74,7 @@ With shiftMD you’ll provide value to your patients by:
 
 <a href='https://play.google.com/store/apps/details?id=com.shiftmd.app'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technologies : MVVM, Hilt, Coroutine, Android Jetpack, Room, Android SDK, Kotlin, Xml, Stripe Payment Gateways.
+### Technologies : Android SDK, Kotlin, Xml, MVVM, Hilt, Coroutine, Android Jetpack, Room, Stripe Payment Gateways.
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/BWzXedtBURd5ZH5nINkGVWj9QVqRZWJy67aNhiClKmNs4y_IEnLJOxH76r0V7wYi3bE=w2560-h1440-rw" width="250" height = "500"  title="AdVenture Games">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -87,7 +87,7 @@ Ignite team camaraderie and explore historic landmarks in this exciting team bui
 
 <a href='https://play.google.com/store/apps/details?id=com.adventure.treasure'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technologies : MVP, SQLite, Android SDK, Java, Xml, AR, Google Maps.
+### Technologies : Android SDK, Java, Xml, MVP, SQLite, AR, Google Maps.
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/GCq0ttnUAI-LQFjlBCqVlr_eXcK6vv9Te8FPArdqCXcWYW1J52zeISdTH22uYeDSDYM=w2560-h1440-rw" width="250" height = "500"  title="AdVenture Games">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -99,7 +99,7 @@ COLO Driver App is for the drivers in Qatar who wants to provide services throug
 
 <a href='https://play.google.com/store/apps/details?id=com.colo.driver'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technologies : MVP, SQLite, Android SDK, Java, Xml, AR, Google Maps, Socket.
+### Technologies : Android SDK, Java, Xml, MVP, SQLite, Google Maps, Socket.
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/cqV7kQVdqxDKkxMWva_hffqPoRI9-GBTu2SPl2mo_PyNlUCTgSCyKV9Su7iYSEGtCESz=w2560-h1440-rw" width="250" height = "500"  title="Colo Driver">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -111,7 +111,7 @@ COLO is a company formed exclusively for online cab operations in Qatar by a gro
 
 <a href='https://play.google.com/store/apps/details?id=com.colo.rider'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technologies : MVP, SQLite, Android SDK, Java, Xml, AR, Google Maps, Socket.
+### Technologies : Android SDK, Java, Xml, MVP, SQLite, Google Maps, Socket.
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/cqV7kQVdqxDKkxMWva_hffqPoRI9-GBTu2SPl2mo_PyNlUCTgSCyKV9Su7iYSEGtCESz=w2560-h1440-rw" width="250" height = "500"  title="Colo Driver">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -123,10 +123,26 @@ Ramez Online comes as a result of an enduring experience with realizing our clie
 
 <a href='https://play.google.com/store/apps/details?id=com.ramez.shopp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technologies : MVP, SQLite, Android SDK, Java, Xml, FCM, Payment Gateway.
+### Technologies : Android SDK, Java, Xml, MVP, SQLite, FCM, Payment Gateway.
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/Yt79pWfvIOv-W0sCZfgP0oOsYpWPGzKy6ajKtvEd50CJCG2ymjg9F7cNrbgCzfUSTw=w2560-h1440-rw" width="250" height = "500"  title="Ramez Online">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+# DVDXpress
+
+Locate DVDXpress DVD Rental Kiosks near you and place movie reservations!
+Welcome to DVDXpress! Browse and reserve movie inventory in real-time at any DVDXpress Kiosk nationwide with this APP!
+Enjoy our Android mobile app for the added convenience of being able to locate the DVDXpress kiosks nearest you, reserve movies in advance, and see your rental transaction history.
+DVDXpress is the nation's longest running operator of DVD Rental Kiosks, delivering incredible value and convenience in home entertainment since 2001. With new release DVDs for just $1.75 per night, and many hit titles available years Before Netflix, DVDXpress customers can always find a reason to 'Take Home a Movie Tonight!'
+There's no sign-up or membership required to use DVDXpress kiosks, but customers must register an account with valid credit or debit card in order to reserve movies online.
+
+<a href='https://apkpure.com/dvdxpress-dvd-rental-kiosks/com.dvd.xpress'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technologies : Android SDK, Java, Xml, MVC, SQLite, FCM, Payment Gateway, BLE.
+
+<p align="center">
+<img src="https://image.winudf.com/v2/image/Y29tLmR2ZC54cHJlc3Nfc2NyZWVuXzBfMTUyMzEyMzU3OV8wMDU/screen-0.webp?fakeurl=1&type=.webp" width="250" height = "500"  title="DVDXpress">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 # Habib Exchange (Hybrid)
