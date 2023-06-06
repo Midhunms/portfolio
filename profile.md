@@ -117,6 +117,18 @@ COLO is a company formed exclusively for online cab operations in Qatar by a gro
 <img src="https://play-lh.googleusercontent.com/cqV7kQVdqxDKkxMWva_hffqPoRI9-GBTu2SPl2mo_PyNlUCTgSCyKV9Su7iYSEGtCESz=w2560-h1440-rw" width="250" height = "500"  title="Colo Driver">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+# Ramez Online
+
+Ramez Online comes as a result of an enduring experience with realizing our clients’ requirements, in addition to a professionally trained delivery team that handpicks the best produce and other assorted items. Ramez Online provides you with a comprehensive delivery service for your daily needs; readily, swiftly and with the best quality. We aim to make your shopping experience a smooth one. Our most distinguishing attribute is our prices, promptness and optimum service. At Ramez, we ensure that we utilize the latest technologies in order to proffer an optimum shopping experience, from the accessibility and user-friendliness of the application to the swift delivery along with the consistently great offers at the best quality standards of goods and services.
+
+<a href='https://play.google.com/store/apps/details?id=com.ramez.shopp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technologies : MVP, SQLite, Android SDK, Java, Xml, FCM, Payment Gateway.
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/Yt79pWfvIOv-W0sCZfgP0oOsYpWPGzKy6ajKtvEd50CJCG2ymjg9F7cNrbgCzfUSTw=w2560-h1440-rw" width="250" height = "500"  title="Ramez Online">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 # Habib Exchange (Hybrid)
 
 Always get the real exchange rate and Send money on the go with Habib Exchange.
