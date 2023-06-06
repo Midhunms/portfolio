@@ -24,7 +24,7 @@ Find the nearest UPS location to pack, send, or collect your shipments
 
 <a href='https://play.google.com/store/apps/details?id=com.ups.mobile.android'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technolgies : Android SDK , Kotlin, Xml, Firebase, Coroutines, Jetpack Components.
+### Technologies : Android SDK , Kotlin, Xml, Firebase, Coroutines, Jetpack Components.
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/sESpxwdv8E0ikwgAftqLbSDMc6ePzhlkYrRB1bf8HnZt9KbD9rbDq0G7YrhoXbkUkQ=w2560-h1440-rw" width="250" height = "500"  title="UPS Mobile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,7 +36,7 @@ KRUUZ provides a platform for cities, college campuses, apartment buildings, and
 
 <a href='https://play.google.com/store/apps/details?id=com.kruuz.app'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technolgies : MVVM, Hilt, Coroutine, Android Jetpack, Room, Android SDK, Kotlin, Xml, TCP Socket, Payment Gateways, GPay
+### Technologies : MVVM, Hilt, Coroutine, Android Jetpack, Room, Android SDK, Kotlin, Xml, TCP Socket, Payment Gateways, GPay
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/DL94gV7zKEY0VlK73pKlRB477YhqStb__pXikSFcKKUCzo0kUqNbBsLUSAd2hu_zag=w2560-h1440-rw" width="250" height = "500"  title="Kruuz">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@ With shiftMD you’ll provide value to your patients by:
 
 <a href='https://play.google.com/store/apps/details?id=com.shiftmd.app'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technolgies : MVVM, Hilt, Coroutine, Android Jetpack, Room, Android SDK, Kotlin, Xml, Stripe Payment Gateways.
+### Technologies : MVVM, Hilt, Coroutine, Android Jetpack, Room, Android SDK, Kotlin, Xml, Stripe Payment Gateways.
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/BWzXedtBURd5ZH5nINkGVWj9QVqRZWJy67aNhiClKmNs4y_IEnLJOxH76r0V7wYi3bE=w2560-h1440-rw" width="250" height = "500"  title="AdVenture Games">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,10 +73,47 @@ Ignite team camaraderie and explore historic landmarks in this exciting team bui
 
 <a href='https://play.google.com/store/apps/details?id=com.adventure.treasure'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-### Technolgies : MVP, SQLite, Android SDK, Java, Xml, AR, Google Maps.
+### Technologies : MVP, SQLite, Android SDK, Java, Xml, AR, Google Maps.
 
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/GCq0ttnUAI-LQFjlBCqVlr_eXcK6vv9Te8FPArdqCXcWYW1J52zeISdTH22uYeDSDYM=w2560-h1440-rw" width="250" height = "500"  title="AdVenture Games">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+# Colo Driver
+
+COLO Driver App is for the drivers in Qatar who wants to provide services through COLO. COLO is the first and largest consortium of cab owners in Qatar.
+
+<a href='https://play.google.com/store/apps/details?id=com.colo.driver'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technologies : MVP, SQLite, Android SDK, Java, Xml, AR, Google Maps, Socket.
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/cqV7kQVdqxDKkxMWva_hffqPoRI9-GBTu2SPl2mo_PyNlUCTgSCyKV9Su7iYSEGtCESz=w2560-h1440-rw" width="250" height = "500"  title="Colo Driver">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+# Colo Rider
+
+COLO is a company formed exclusively for online cab operations in Qatar by a group of limousine operators. COLO is affordable to common people yet the same time beneficial for Drivers as we are charging a nominal commission only to maintain the system.
+
+<a href='https://play.google.com/store/apps/details?id=com.colo.rider'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technologies : MVP, SQLite, Android SDK, Java, Xml, AR, Google Maps, Socket.
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/cqV7kQVdqxDKkxMWva_hffqPoRI9-GBTu2SPl2mo_PyNlUCTgSCyKV9Su7iYSEGtCESz=w2560-h1440-rw" width="250" height = "500"  title="Colo Driver">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+# Habib Exchange
+
+Always get the real exchange rate and Send money on the go with Habib Exchange.
+Registration is done using Qatar ID, phone number, and PIN which is remarkable for all, so the possibilities of duplication can be neglected from the beginning itself. So the best way to send and track a transfer easily is now in your pocket.
+
+<a href='https://play.google.com/store/apps/details?id=com.habib.exchange'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technologies : MVP, SQLite, Android SDK, Java, Xml, AR, Google Maps, Socket.
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/JQCnAaHIogVN_05x4HbO52pMy5jkAL7_O5qq0BQTui5T7WgeXN0fuegS5j_AhlEOdRg=w2560-h1440-rw" width="250" height = "500"  title="Habib Exchange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Thanks for stopping by!
