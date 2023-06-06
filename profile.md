@@ -62,6 +62,11 @@ With shiftMD you’ll provide value to your patients by:
 
 ### Technolgies : MVVM, Hilt, Coroutine, Android Jetpack, Room, Android SDK, Kotlin, Xml, Stripe Payment Gateways.
 
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/BWzXedtBURd5ZH5nINkGVWj9QVqRZWJy67aNhiClKmNs4y_IEnLJOxH76r0V7wYi3bE=w2560-h1440-rw" width="250" height = "500"  title="AdVenture Games">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 # AdVenture Games
 
 Ignite team camaraderie and explore historic landmarks in this exciting team building adventure. Our programs test participants’ skills at communication, leadership, problem-solving, and thinking outside the box as they race against the clock to locate a treasure.
@@ -71,7 +76,7 @@ Ignite team camaraderie and explore historic landmarks in this exciting team bui
 ### Technolgies : MVP, SQLite, Android SDK, Java, Xml, AR, Google Maps.
 
 <p align="center">
-<img src="https://play-lh.googleusercontent.com/BWzXedtBURd5ZH5nINkGVWj9QVqRZWJy67aNhiClKmNs4y_IEnLJOxH76r0V7wYi3bE=w2560-h1440-rw" width="250" height = "500"  title="AdVenture Games">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://play-lh.googleusercontent.com/GCq0ttnUAI-LQFjlBCqVlr_eXcK6vv9Te8FPArdqCXcWYW1J52zeISdTH22uYeDSDYM=w2560-h1440-rw" width="250" height = "500"  title="AdVenture Games">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Thanks for stopping by!
