@@ -4,6 +4,20 @@
 
 <a href="mailto:midhunmscse@gmail.com"><img src="https://img.shields.io/badge/Midhun-Email-red"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/midhun-ms-46021491/" target="_blank"><img src="https://img.shields.io/badge/Midhun-LinkedIn-blue" ></a>
 
+TECH STACK
+● Proficient in Kotlin, Java, Flutter, React Native and Android SDK.
+● Experience with Android X, Coroutines, Jetpack compose, Rx Java, Dagger, Hilt, MVVM, MVP, GraphQL.
+● Knowledge of RESTful APIs, JSON using OkHttp and Retrofit.
+● Familiar with Git, Github, Bitbucket.
+● Familiar with different payment gateway such as Stripe, Authorize.net, Paypal.
+● Strong understanding of Material Design principles.
+● Ability to work with third-party libraries and APIs.
+● Experience in Firebase and Google Play Services.
+● Experience in JUnit, UI Test (Espresso) and test-driven development (TDD).
+● Experience with Agile development methodologies.
+● Familiar with Gradle, CI/CD (Jenkins), Android Studio, Xcode.
+● Familiar with Jira, Asana, Redmine, ClickUp, Adobe Photoshop, Zeplin and Figma.
+
 # UPS Mobile
 
 UPS help you easily manage shipments, track packages, find UPS locations, and much more with the UPS Mobile app.
