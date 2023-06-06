@@ -43,23 +43,36 @@ KRUUZ provides a platform for cities, college campuses, apartment buildings, and
 </p>
 
 
+# shiftMD
+
+As a healthcare provider, you are constantly recommending non prescription, therapeutic, first-line products to your patients. You don’t know if they heed that advice and go to the pharmacy or online to purchase what you recommend. With the literally thousands of products online, your patient may not actually purchase the product with the specific ingredients or affects that you as the healthcare provider actually intended.
+
+With the shiftMD app, you can easily find the product, establish the duration of therapy and send it directly to your patient. You will have full visibility to ensure your patient’s compliance, as well as full access to learn about the existing products on the platform and alerted when new ones become available.
+With shiftMD you’ll provide value to your patients by:
+
+• Saving them time wasted with pharmacy visits
+
+• Saving them time and confusion spent traversing the online retailers
+
+• Saving them money since the products you recommend through shiftMD are usually priced better than anywhere
+
+• Convenience since the products are discretely shipped to their home for the allotted time designated
+
+<a href='https://play.google.com/store/apps/details?id=com.shiftmd.app'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technolgies : MVVM, Hilt, Coroutine, Android Jetpack, Room, Android SDK, Kotlin, Xml, Stripe Payment Gateways.
+
+# AdVenture Games
+
+Ignite team camaraderie and explore historic landmarks in this exciting team building adventure. Our programs test participants’ skills at communication, leadership, problem-solving, and thinking outside the box as they race against the clock to locate a treasure.
+
+<a href='https://play.google.com/store/apps/details?id=com.adventure.treasure'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+### Technolgies : MVP, SQLite, Android SDK, Java, Xml, AR, Google Maps.
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/BWzXedtBURd5ZH5nINkGVWj9QVqRZWJy67aNhiClKmNs4y_IEnLJOxH76r0V7wYi3bE=w2560-h1440-rw" width="250" height = "500"  title="AdVenture Games">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ## Thanks for stopping by!
   
-
-   LICENCE
------
-
- Copyright 2022 Ankit kumar
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
