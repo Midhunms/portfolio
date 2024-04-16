@@ -56,6 +56,17 @@ KRUUZ provides a platform for cities, college campuses, apartment buildings, and
 <img src="https://play-lh.googleusercontent.com/DL94gV7zKEY0VlK73pKlRB477YhqStb__pXikSFcKKUCzo0kUqNbBsLUSAd2hu_zag=w2560-h1440-rw" width="250" height = "500"  title="Kruuz">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+# chronopeer 
+
+Chronopeer app helps to connect people with chronic conditions in an online peer support group moderated by a trained professional. The app also allows you to record your vital signs (e.g., glucose level and blood pressure) and monitor them over time to see the progression of your condition. It also allows you to track your physical activities in the form of walking and jogging etc. You will need an invitation from the moderator to join the peer support group.
+
+<a href='https://apps.apple.com/tt/app/chronopeer/id1583727441'><img alt='Get it on App Store' src='https://developer.apple.com/news/images/download-on-the-app-store-badge.png' height='80px'/></a>
+
+### Technologies : Android SDK, Kotlin, Xml, MVVM, Hilt, Coroutine, Android Jetpack, Room, Stripe Payment Gateways.
+
+<p align="center">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/83/70/89/837089ab-b914-a00a-8473-7ffdb04d7b6d/7decd696-af57-43fb-9e31-a930a6bdb87c_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2021-09-03_at_10.54.13.png/300x0w.webp" width="250" height = "500"  title="chronopeer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 # shiftMD
 
@@ -77,7 +88,7 @@ With shiftMD you’ll provide value to your patients by:
 ### Technologies : Android SDK, Kotlin, Xml, MVVM, Hilt, Coroutine, Android Jetpack, Room, Stripe Payment Gateways.
 
 <p align="center">
-<img src="https://play-lh.googleusercontent.com/BWzXedtBURd5ZH5nINkGVWj9QVqRZWJy67aNhiClKmNs4y_IEnLJOxH76r0V7wYi3bE=w2560-h1440-rw" width="250" height = "500"  title="AdVenture Games">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://play-lh.googleusercontent.com/BWzXedtBURd5ZH5nINkGVWj9QVqRZWJy67aNhiClKmNs4y_IEnLJOxH76r0V7wYi3bE=w2560-h1440-rw" width="250" height = "500"  title="ShiftMD">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
