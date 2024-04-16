@@ -62,7 +62,7 @@ Chronopeer app helps to connect people with chronic conditions in an online peer
 
 <a href='https://apps.apple.com/tt/app/chronopeer/id1583727441'><img alt='Get it on App Store' src='https://developer.apple.com/news/images/download-on-the-app-store-badge.png' height='80px'/></a>
 
-### Technologies : Android SDK, Kotlin, Xml, MVVM, Hilt, Coroutine, Android Jetpack, Room, Stripe Payment Gateways.
+### Technologies : Android SDK, Kotlin, Xml, MVVM, Hilt, Coroutine, Android Jetpack, Room.
 
 <p align="center">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/83/70/89/837089ab-b914-a00a-8473-7ffdb04d7b6d/7decd696-af57-43fb-9e31-a930a6bdb87c_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2021-09-03_at_10.54.13.png/300x0w.webp" width="250" height = "500"  title="chronopeer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
